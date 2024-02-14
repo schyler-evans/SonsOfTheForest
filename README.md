@@ -21,7 +21,7 @@ C:\Users\[User]\AppData\LocalLow\Endnight\SonsOfTheForest\Saves\[some-sort-of-gu
 ## Directions: Sharing a multiplayer save for use by others.
 - Take the entire target save directory and give it to someone else.
 
-## Directions for setting up easy server file syncing with this group
+## Directions: Setting up easy server file syncing with this group
 - Navigate to the Muliplayer Save File Location listed above in terminal.
 - Delete the existing 'Multiplayer' directory (if you want to retain any existing multiplayer saves, place them aside to re-add later.)
 - Get git sorted out on your machine.
