@@ -11,7 +11,7 @@ Whenever the server is reloaded, all items reappear. This includes story items, 
 The normal rules of saving the game in Singleplayer may not apply. This could mean that enemies in caves might respawn, which they're not supposed to; however this is not guaranteed. There's other discrepancies (such as shark corpses on beaches disappearing), so be aware that when you load the game again things may not reload the way you expect them to.
 
 ## Directory Location: Muliplayer Save File
-C:\Users\[User]\AppData\LocalLow\Endnight\SonsOfTheForest\Saves\[some-sort-of-guid]\Multiplayer
+C:\Users\[User]\AppData\LocalLow\Endnight\SonsOfTheForest\Saves\\[some-sort-of-guid]\Multiplayer
 
 ## Directions: Hosting a multiplayer save from elsewhere (e.g. from this project.)
 - Take the entire save directory (e.g. the directory(s) at the root of this project) and plop them down in the Muliplayer Save File Location listed above on your machine.
